@@ -1,4 +1,4 @@
-#include"main.h"
+#include "main.h"
 /**
 * print_alphabet_x10 - function will print the alphabet 10 times
 * Return: Always 0 (success)
